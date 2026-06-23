@@ -1,0 +1,5 @@
+# NEVER commit binaries into git history (they go as release ASSETS) — and NEVER
+# any ELF (private symbols). Only manifest.json + README are tracked here.
+*.bin
+*.elf
+*.map
