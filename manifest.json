@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.0.4/lvgl_demo_v9.bin",
-  "sha256": "1c48afd0038e294a4d1e180cb025313802543b95a0af43e62ddab1490885d034",
+  "version": "1.0.5",
+  "url": "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.0.5/lvgl_demo_v9.bin",
+  "sha256": "3778de5af85cac2ec3f469a9f352bab97b422d999d9d63065afa155bf53c8982",
   "is_critical": false,
-  "release_notes": "fix PSRAM issue",
+  "release_notes": "latest testing release",
   "size_bytes": 2820656
 }
