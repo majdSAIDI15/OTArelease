@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.0.2/lvgl_demo_v9.bin",
-  "sha256": "3C4222457EDB58EFF105D7A2FC6EC49BB78E0A99B4B06F37939429938D92999F",
+  "version": "1.0.3",
+  "url": "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.0.3/lvgl_demo_v9.bin",
+  "sha256": "A1F1C1C3B06679C471125F705D2A3ED97AAFB9C2DC2065504B466117F8063E53",
   "is_critical": false,
   "release_notes": "Premiere mise a jour OTA de test",
   "size_bytes": 2820656
