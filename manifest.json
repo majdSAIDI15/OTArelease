@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.0.3/lvgl_demo_v9.bin",
-  "sha256": "A1F1C1C3B06679C471125F705D2A3ED97AAFB9C2DC2065504B466117F8063E53",
+  "version": "1.0.4",
+  "url": "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.0.4/lvgl_demo_v9.bin",
+  "sha256": "45AB1911EC8CD1EC3A054562B10BC897FACFE6649F2474A062588AA5D34C2FBA",
   "is_critical": false,
-  "release_notes": "Premiere mise a jour OTA de test",
+  "release_notes": "fix PSRAM issue",
   "size_bytes": 2820656
 }
