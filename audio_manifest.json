@@ -1,0 +1,97 @@
+{
+  "base_url": "https://raw.githubusercontent.com/majdSAIDI15/OTArelease/main/sdcard/",
+  "files": [
+    {
+      "path": "validation.wav",
+      "size": 373326
+    },
+    {
+      "path": "audio/10_med_distribuer.wav",
+      "size": 338766
+    },
+    {
+      "path": "audio/15_min_avant_missed_dose.wav",
+      "size": 610638
+    },
+    {
+      "path": "audio/1_med_distribuer.wav",
+      "size": 216654
+    },
+    {
+      "path": "audio/2_med_distribuer.wav",
+      "size": 306510
+    },
+    {
+      "path": "audio/3_med_distribuer.wav",
+      "size": 318030
+    },
+    {
+      "path": "audio/4_med_distribuer.wav",
+      "size": 322638
+    },
+    {
+      "path": "audio/5_med_distribuer.wav",
+      "size": 327246
+    },
+    {
+      "path": "audio/6_med_distribuer.wav",
+      "size": 294990
+    },
+    {
+      "path": "audio/7_med_distribuer.wav",
+      "size": 315726
+    },
+    {
+      "path": "audio/8_med_distribuer.wav",
+      "size": 318030
+    },
+    {
+      "path": "audio/9_med_distribuer.wav",
+      "size": 315726
+    },
+    {
+      "path": "audio/batterie_faible.wav",
+      "size": 244302
+    },
+    {
+      "path": "audio/demarage_pilelier.wav",
+      "size": 847950
+    },
+    {
+      "path": "audio/esque_med_bien_ete_distribuer.wav",
+      "size": 241998
+    },
+    {
+      "path": "audio/fichier_audio_wav_non_trouver_dans_la_carte_SD.wav",
+      "size": 338766
+    },
+    {
+      "path": "audio/il_est_temp_de_prendre_vos_medicament.wav",
+      "size": 191310
+    },
+    {
+      "path": "audio/med_en_retard_proche_prevenue.wav",
+      "size": 663630
+    },
+    {
+      "path": "audio/merci_a_la_prchaine-dose.wav",
+      "size": 168270
+    },
+    {
+      "path": "audio/merci_davoir_pris_vos_med.wav",
+      "size": 159054
+    },
+    {
+      "path": "audio/merci_de_retourner_le_pillulier.wav",
+      "size": 511566
+    },
+    {
+      "path": "audio/remind.wav",
+      "size": 57644
+    },
+    {
+      "path": "audio/votre_wifi_a_ete_deco.wav",
+      "size": 327246
+    }
+  ]
+}

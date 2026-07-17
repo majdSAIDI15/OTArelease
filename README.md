@@ -44,3 +44,28 @@ From the firmware repo (`hardwar-pillquare/pillqv2`):
 ```
 Same shape as the CRM `/firmware` response → migrating to the CRM later only
 changes the base URL the device polls (`OTA_MANIFEST_URL` in `ota_service.h`).
+
+## Audio bank (`sdcard/` + `audio_manifest.json`)
+
+The device self-heals its SD audio files (French voice prompts). On boot / WiFi
+reconnect it reads `audio_manifest.json` (served **raw**, so these files ARE
+tracked in git — unlike the firmware `.bin` which is a release asset) and
+re-downloads any file that is missing or the wrong size to the SD card.
+
+- **Layout:** the WAVs live under `sdcard/`, mirroring the device paths.
+  `sdcard/validation.wav` → `/sdcard/validation.wav`,
+  `sdcard/audio/*.wav` → `/sdcard/audio/*.wav`.
+- **`audio_manifest.json`** (repo root) lists each file's `path` + expected
+  `size` (bytes). `base_url` + `path` = the raw download URL. `size` is the
+  integrity gate (catches a truncated download); an optional `sha256` per file
+  is verified when present.
+- Consumed by `main/services/audio_provision` in the firmware
+  (`AUDIO_MANIFEST_URL`).
+- **To change a prompt:** replace the WAV under `sdcard/`, update its `size` in
+  `audio_manifest.json`, commit + push. Devices pick it up on the next check.
+
+```json
+{ "base_url": "https://raw.githubusercontent.com/majdSAIDI15/OTArelease/main/sdcard/",
+  "files": [ { "path": "validation.wav", "size": 373326 },
+             { "path": "audio/remind.wav", "size": 57644 } ] }
+```
