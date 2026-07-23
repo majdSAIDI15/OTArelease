@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.1",
-    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.1/lvgl_demo_v9.bin",
-    "sha256":  "fbe6451cdfc97cbfc28f4e2e8cba5b6d9347c217028bd6f409d97e4d2f305519",
+    "version":  "1.1.2",
+    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.2/lvgl_demo_v9.bin",
+    "sha256":  "65df052028ac67aab9e8691aa5caa196c5df134a8d5eff483e98a551c7f401cd",
     "is_critical":  false,
-    "release_notes":  "Fix stack overflow led_anim",
-    "size_bytes":  4032304
+    "release_notes":  "release fix ",
+    "size_bytes":  4034640
 }
