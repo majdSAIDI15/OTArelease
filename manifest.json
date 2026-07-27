@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.2",
-    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.2/lvgl_demo_v9.bin",
-    "sha256":  "65df052028ac67aab9e8691aa5caa196c5df134a8d5eff483e98a551c7f401cd",
+    "version":  "1.1.5",
+    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.5/lvgl_demo_v9.bin",
+    "sha256":  "a6d9a6d9eca2f82e2d7824edf218b86703da36762bbf770a333661ac514e95bf",
     "is_critical":  false,
-    "release_notes":  "release fix ",
-    "size_bytes":  4034640
+    "release_notes":  "LED RGB GRB ET PIN PARAM ",
+    "size_bytes":  4036400
 }
