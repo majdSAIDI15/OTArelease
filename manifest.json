@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.5",
-    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.5/lvgl_demo_v9.bin",
-    "sha256":  "a6d9a6d9eca2f82e2d7824edf218b86703da36762bbf770a333661ac514e95bf",
+    "version":  "1.1.7",
+    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.7/lvgl_demo_v9.bin",
+    "sha256":  "694252d44fd7322f40eee8613d46bde95281a7231cbe677ab92d5d246ee601d3",
     "is_critical":  false,
-    "release_notes":  "LED RGB GRB ET PIN PARAM ",
-    "size_bytes":  4036400
+    "release_notes":  "angle servo trape dan param",
+    "size_bytes":  4039280
 }
