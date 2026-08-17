@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.8",
-    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.8/lvgl_demo_v9.bin",
-    "sha256":  "3b5e23ef15131d4a51ec874647e34261a0ef6f0f0f5b0cdabf756ad6a878e244",
+    "version":  "1.1.10",
+    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.10/lvgl_demo_v9.bin",
+    "sha256":  "9f8ed2a1dc24fa2b0fe36e1cf20dfc647ca7329379052f73d5b7656f7b037093",
     "is_critical":  false,
-    "release_notes":  "nouveau ecrant d alarm",
-    "size_bytes":  4039664
+    "release_notes":  "UI session",
+    "size_bytes":  4015296
 }
