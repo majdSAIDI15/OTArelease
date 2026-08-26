@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.13",
-    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.13/lvgl_demo_v9.bin",
-    "sha256":  "99c697e00dacaf2fc2f4e8e0fd25ea9de0956caf2db3d2e80fadf33bea85f4cd",
+    "version":  "1.1.15",
+    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.15/lvgl_demo_v9.bin",
+    "sha256":  "36ab9dfcbf4ff47bef78fe1530fc547f6a36a724b477b79612874e5f11f91ac2",
     "is_critical":  false,
-    "release_notes":  "rqnge trape +80 -80",
-    "size_bytes":  4128448
+    "release_notes":  "anti surchaife servo",
+    "size_bytes":  4124416
 }
