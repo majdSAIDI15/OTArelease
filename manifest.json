@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.16",
-    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.16/lvgl_demo_v9.bin",
-    "sha256":  "adb5cdca506bfbd40e0af0e31d0d2fe0a6805b4954ba452dfe24b4e8a695122d",
+    "version":  "1.1.18",
+    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.18/lvgl_demo_v9.bin",
+    "sha256":  "5e6c791efedfb16571abee3fb82c4d17143b8c7c3a6bf05136524d6f3a566598",
     "is_critical":  false,
-    "release_notes":  "modif alarm",
-    "size_bytes":  4125040
+    "release_notes":  "boucle test endurance trape",
+    "size_bytes":  4126368
 }
