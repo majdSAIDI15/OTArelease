@@ -3,111 +3,138 @@
   "files": [
     {
       "path": "validation.wav",
-      "size": 373326
+      "size": 373326,
+      "sha256": "8ca343badc91f2dcff1174c17a641916878ff0adaf27273694da412bbad6c6dd"
     },
     {
       "path": "audio/10_med_distribuer.wav",
-      "size": 338766
+      "size": 338766,
+      "sha256": "883e5437aa7f8424aaa813ccca61829b24d5846b899662c4e27258cb3482dd9c"
     },
     {
       "path": "audio/15_min_avant_missed_dose.wav",
-      "size": 610638
+      "size": 610638,
+      "sha256": "9d7ab4e8f4aa7e2cda35b47824fddc7f590ecc6f12a663a2b35afc09f8b91682"
     },
     {
       "path": "audio/1_med_distribuer.wav",
-      "size": 216654
+      "size": 216654,
+      "sha256": "e49ea3b58dc4d002b19c4463ddea385bd5d5e5521e997839af11e795ddd4634c"
     },
     {
       "path": "audio/2_med_distribuer.wav",
-      "size": 306510
+      "size": 306510,
+      "sha256": "5117abc1ac89cf4427c7656e21e8d29f12d35f576bd11cdea1652309f9c2cd3f"
     },
     {
       "path": "audio/3_med_distribuer.wav",
-      "size": 318030
+      "size": 318030,
+      "sha256": "482d179851e84b8c8d39b142b863ce3ffd0e94cfd4dad7aa7234a52a726fbd4a"
     },
     {
       "path": "audio/4_med_distribuer.wav",
-      "size": 322638
+      "size": 322638,
+      "sha256": "7469ff28b47be193265052922f43bd18d01ef8b8f4cdfdb258a21ce9bbc90e1b"
     },
     {
       "path": "audio/5_med_distribuer.wav",
-      "size": 327246
+      "size": 327246,
+      "sha256": "17719af5165a7b742969797503b3e3dfeff421e5486c51d24de6d6f7c44a22bd"
     },
     {
       "path": "audio/6_med_distribuer.wav",
-      "size": 294990
+      "size": 294990,
+      "sha256": "da0b902e608be775d66c57f2ad09ed1f8f6596ce8ac87c724112289c5e4e7f4e"
     },
     {
       "path": "audio/7_med_distribuer.wav",
-      "size": 315726
+      "size": 315726,
+      "sha256": "998f8a1e9d6115aa4ef1cc8870575480b0b0f8ed18d11396ba76d49a6c7afc85"
     },
     {
       "path": "audio/8_med_distribuer.wav",
-      "size": 318030
+      "size": 318030,
+      "sha256": "d0b15335bb00ea9ffbd46e78d2bedb9b597ac68654262553b55165bc7aa91d59"
     },
     {
       "path": "audio/9_med_distribuer.wav",
-      "size": 315726
+      "size": 315726,
+      "sha256": "6462af91951b627289649a0510a3a831ccb7076be223f4ed96dcbfd8474092fd"
     },
     {
       "path": "audio/alarme_orange.wav",
-      "size": 1291292
+      "size": 1291292,
+      "sha256": "99a99ece274a6e95ee868893a08e0f500fc3a871e036ac762f48be32f5ab6f4d"
     },
     {
       "path": "audio/alarme_rouge.wav",
-      "size": 1326436
+      "size": 1326436,
+      "sha256": "e7acd119b6487ade08389f86836f2161866d8db4cb83180f2856f9f10f6d5afc"
     },
     {
       "path": "audio/alarme_verte.wav",
-      "size": 1199564
+      "size": 1199564,
+      "sha256": "5408dd8072b4183f95357193c8058c6188d69f93cfa7c99e7c945d3000c89011"
     },
     {
       "path": "audio/batterie_faible.wav",
-      "size": 244302
+      "size": 244302,
+      "sha256": "83c96c53f4c71f12a4cf38127343026b0cbbe49b29f7bf3d76944f6a44594506"
     },
     {
       "path": "audio/demarage_pilelier.wav",
-      "size": 847950
+      "size": 847950,
+      "sha256": "f6c9d23257309796f9727edec559b9e4810db4afd2cc47394a8c9dc7a9f5ab65"
     },
     {
       "path": "audio/demarrage.wav",
-      "size": 181736
+      "size": 181736,
+      "sha256": "83d559efed4a4c9f6484a06e5c85b8cb23eeb503e011601d1471a5254794c079"
     },
     {
       "path": "audio/esque_med_bien_ete_distribuer.wav",
-      "size": 241998
+      "size": 241998,
+      "sha256": "058718f14030a22195b742fd4060e549f9a345b10ce10e3590db710e84b16512"
     },
     {
       "path": "audio/fichier_audio_wav_non_trouver_dans_la_carte_SD.wav",
-      "size": 338766
+      "size": 338766,
+      "sha256": "f8fe17b09a092ff823455a1251acb90422c3e9752ca8e75867f99237bb554ddf"
     },
     {
       "path": "audio/il_est_temp_de_prendre_vos_medicament.wav",
-      "size": 191310
+      "size": 191310,
+      "sha256": "2ec3fce4f29f140f4f08080a2d698a18e35203e12cf62fe563ddb4b28f5531f4"
     },
     {
       "path": "audio/med_en_retard_proche_prevenue.wav",
-      "size": 663630
+      "size": 663630,
+      "sha256": "fb37fce90c5acf02bc2657ca5366ce1fb631ea2b3194219407a42571c5b1cc6a"
     },
     {
       "path": "audio/merci_a_la_prchaine-dose.wav",
-      "size": 168270
+      "size": 168270,
+      "sha256": "04a7924c6c59c451387ce704de0cf592469f437889a5a7da0a279c0b676f3451"
     },
     {
       "path": "audio/merci_davoir_pris_vos_med.wav",
-      "size": 159054
+      "size": 159054,
+      "sha256": "e86f384c46a6a26a2e84cfb0c09a81ed576c95ad717c462e2779529e06d7a3ad"
     },
     {
       "path": "audio/merci_de_retourner_le_pillulier.wav",
-      "size": 511566
+      "size": 511566,
+      "sha256": "64046e90e42ebc857f61de7e2bdcf59aa9d3b40a528d8f00ae25d6b6e7eb2a73"
     },
     {
       "path": "audio/remind.wav",
-      "size": 79424
+      "size": 79424,
+      "sha256": "ea9cc420b00ffebbaa06c1c4c67a77ff5c13cdd8ff8cad42f360d89edb0c6088"
     },
     {
       "path": "audio/votre_wifi_a_ete_deco.wav",
-      "size": 327246
+      "size": 327246,
+      "sha256": "51385edb65d79d40777d24350301feb5b8b2e5766b42b9699f99a84438afc022"
     }
   ]
 }
