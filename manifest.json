@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.19",
-    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.19/lvgl_demo_v9.bin",
-    "sha256":  "7f157a09b2a11eb2f09c403b14b37d79608644b98a21d1f961e3cceb152a1ea4",
+    "version":  "1.1.20",
+    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.20/lvgl_demo_v9.bin",
+    "sha256":  "8f0b5cdd623d075b6fb17e9a94ee0376129fbe3e29870ad8af76db7aae0e3eb5",
     "is_critical":  false,
-    "release_notes":  "livraison a distance",
-    "size_bytes":  4135584
+    "release_notes":  "telechargement a distance des audio",
+    "size_bytes":  4139712
 }
