@@ -2,11 +2,6 @@
   "base_url": "https://raw.githubusercontent.com/majdSAIDI15/OTArelease/main/sdcard/",
   "files": [
     {
-      "path": "validation.wav",
-      "size": 373326,
-      "sha256": "8ca343badc91f2dcff1174c17a641916878ff0adaf27273694da412bbad6c6dd"
-    },
-    {
       "path": "audio/10_med_distribuer.wav",
       "size": 338766,
       "sha256": "883e5437aa7f8424aaa813ccca61829b24d5846b899662c4e27258cb3482dd9c"
@@ -135,6 +130,11 @@
       "path": "audio/votre_wifi_a_ete_deco.wav",
       "size": 327246,
       "sha256": "51385edb65d79d40777d24350301feb5b8b2e5766b42b9699f99a84438afc022"
+    },
+    {
+      "path": "validation.wav",
+      "size": 373326,
+      "sha256": "8ca343badc91f2dcff1174c17a641916878ff0adaf27273694da412bbad6c6dd"
     }
   ]
 }
