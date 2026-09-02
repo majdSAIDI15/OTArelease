@@ -50,12 +50,28 @@
       "size": 315726
     },
     {
+      "path": "audio/alarme_orange.wav",
+      "size": 1291292
+    },
+    {
+      "path": "audio/alarme_rouge.wav",
+      "size": 1326436
+    },
+    {
+      "path": "audio/alarme_verte.wav",
+      "size": 1199564
+    },
+    {
       "path": "audio/batterie_faible.wav",
       "size": 244302
     },
     {
       "path": "audio/demarage_pilelier.wav",
       "size": 847950
+    },
+    {
+      "path": "audio/demarrage.wav",
+      "size": 181736
     },
     {
       "path": "audio/esque_med_bien_ete_distribuer.wav",
