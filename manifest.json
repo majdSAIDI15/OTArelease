@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.22",
-    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.22/lvgl_demo_v9.bin",
-    "sha256":  "93a1af44e4dd116b163d1d219cd39db2daf591c9a6d48ab715cf77085a6d24c9",
+    "version":  "1.1.24",
+    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.24/lvgl_demo_v9.bin",
+    "sha256":  "119fdfbd719f0a98f1d8a9c7d33640ddb7b015c936b8232cfb3abc7d520fa076",
     "is_critical":  false,
-    "release_notes":  "comfirmation avant delivrance a distance",
-    "size_bytes":  4147344
+    "release_notes":  "fix outil diagnostic",
+    "size_bytes":  4149008
 }
