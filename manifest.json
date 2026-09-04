@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.21",
-    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.21/lvgl_demo_v9.bin",
-    "sha256":  "c855a58ba9c3ceedefe82845ac6cbeaa6e289785243fb670fda4b0513212622a",
+    "version":  "1.1.22",
+    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.22/lvgl_demo_v9.bin",
+    "sha256":  "93a1af44e4dd116b163d1d219cd39db2daf591c9a6d48ab715cf77085a6d24c9",
     "is_critical":  false,
-    "release_notes":  "demarage de la trape +muted",
-    "size_bytes":  4142336
+    "release_notes":  "comfirmation avant delivrance a distance",
+    "size_bytes":  4147344
 }
