@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.24",
-    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.24/lvgl_demo_v9.bin",
-    "sha256":  "119fdfbd719f0a98f1d8a9c7d33640ddb7b015c936b8232cfb3abc7d520fa076",
+    "version":  "1.1.25",
+    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.25/lvgl_demo_v9.bin",
+    "sha256":  "3f6a0b235da522946f12beff2f859335a5632b4abea098bb5c1021da6afc86d3",
     "is_critical":  false,
-    "release_notes":  "fix outil diagnostic",
-    "size_bytes":  4149008
+    "release_notes":  "NVS access",
+    "size_bytes":  4162096
 }
