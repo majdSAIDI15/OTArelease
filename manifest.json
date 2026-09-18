@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.8",
-    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.0.8/lvgl_demo_v9.bin",
-    "sha256":  "526b4dc1e97518cf5121abc50e92f1a94363f942f7bad90d280e9d2d915922e4",
+    "version":  "1.1.25",
+    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.25/lvgl_demo_v9.bin",
+    "sha256":  "3f6a0b235da522946f12beff2f859335a5632b4abea098bb5c1021da6afc86d3",
     "is_critical":  false,
-    "release_notes":  "Test script",
-    "size_bytes":  4032304
+    "release_notes":  "NVS access",
+    "size_bytes":  4162096
 }
