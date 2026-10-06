@@ -1,7 +1,7 @@
 {
-    "version":  "1.1.31",
-    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.31/lvgl_demo_v9.bin",
-    "sha256":  "314a6eab015252f60801d8cbc955a60ff1ec37bf056329672f7e9015f67d1de1",
+    "version":  "1.1.32",
+    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.32/lvgl_demo_v9.bin",
+    "sha256":  "1f6546a9d05f4921641d3c0a9a6660b9d1f0f40cc8e0166b419891b7b616ac86",
     "is_critical":  false,
     "release_notes":  "some patches",
     "size_bytes":  4168720
