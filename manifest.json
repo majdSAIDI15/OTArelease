@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.35",
-    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.35/lvgl_demo_v9.bin",
-    "sha256":  "9529ff5c43146eb0d0bfddfe7cb61a6748ad8844f2d9c21a8ff442c68708cd10",
+    "version":  "1.1.37",
+    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.37/lvgl_demo_v9.bin",
+    "sha256":  "9ffa667025042174c63081d9cf806e52befbec8e8b9ac8d0e7c5e040d19ada21",
     "is_critical":  false,
-    "release_notes":  "modif UI case ett retour menu apres distribuion",
-    "size_bytes":  4219392
+    "release_notes":  "opti batterie",
+    "size_bytes":  4254816
 }
