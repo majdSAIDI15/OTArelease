@@ -1,8 +1,8 @@
 {
-    "version":  "1.1.37",
-    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.37/lvgl_demo_v9.bin",
-    "sha256":  "9ffa667025042174c63081d9cf806e52befbec8e8b9ac8d0e7c5e040d19ada21",
+    "version":  "1.1.38",
+    "url":  "https://github.com/majdSAIDI15/OTArelease/releases/download/v1.1.38/lvgl_demo_v9.bin",
+    "sha256":  "19e256d3b6c2a382280511b8ccbc4dadf77a6dc5d8515006400b356cb5a199f5",
     "is_critical":  false,
-    "release_notes":  "opti batterie",
-    "size_bytes":  4254816
+    "release_notes":  "opti batterie2",
+    "size_bytes":  4254944
 }
